@@ -30,7 +30,7 @@ CS 전공 지식에 관한 스터디 내용을 담은 저장소입니다.
     - 책에 나오는 내용 외에 추가적인 내용을 다루는 경우, 명확한 출처와 근거 자료를 제시해야 합니다. (잘못된 내용을 학습하는 것을 막기 위함)
 
 ## Contents
-- [디자인 패턴과 프로그래밍 패러다임](https://github.com/EunbeenDev/CS-Study/blob/main/1장-디자인-패턴과-프로그래밍-패러다임/README.md)
+- [디자인 패턴과 프로그래밍 패러다임](https://github.com/EunbeenDev/CS-Study/blob/main/1장-디자인%20패턴과%20프로그래밍%20패러다임/README.md)
 - [네트워크](https://github.com/EunbeenDev/CS-Study/blob/main/2장-네트워크/README.md)
 - [운영체제](https://github.com/EunbeenDev/CS-Study/blob/main/3장-운영체제/README.md)
 - [데이터베이스](https://github.com/EunbeenDev/CS-Study/blob/main/4장-데이터베이스/README.md)
